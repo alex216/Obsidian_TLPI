@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "目次.md",
+                "file": "2章 基礎概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2章 基礎概念.md",
+                "file": "目次.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,9 +160,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "5b3759c1cc1b2e90",
+  "active": "6a79f34f4ab32279",
   "lastOpenFiles": [
     "目次.md",
-    "2章 基礎概念.md"
+    "2章 基礎概念.md",
+    "2章 基礎概念^8a2e7d.md",
+    "^8a2e7d.md"
   ]
 }
