@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "59eeb10acc604816",
+            "id": "c2389bcfa28cf075",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目次.md",
+                "file": "4章ファイル IO：統一されたインタフェース.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目次.md",
+                "file": "4章ファイル IO：統一されたインタフェース.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "目次.md"
+                "file": "4章ファイル IO：統一されたインタフェース.md"
               }
             }
           }
@@ -166,23 +167,24 @@
     "hiddenItems": {
       "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
+      "graph:グラフビューを開く": false,
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e915c07b7765bae3",
+  "active": "c2389bcfa28cf075",
   "lastOpenFiles": [
+    "5章ファイルIO：詳細.md",
     "4章ファイル IO：統一されたインタフェース.md",
     "目次.md",
+    "13章 IOのバッファリング.md",
+    "18章 ディレクトリとリンク.md",
     "27章 プログラムの実行.md",
-    "5章ファイルIO：詳細.md",
     "63章 高度なIOモデル.md",
     "63章 高度なI/Oモデル.md",
     "63章 高度なI",
-    "13章 IOのバッファリング.md",
     "13章 I/Oのバッファリング.md",
     "22章 シグナル：応用.md",
     "24章 プロセス作成.md",
