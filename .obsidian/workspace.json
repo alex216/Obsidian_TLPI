@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "4b2860ce8393f288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13章 IOのバッファリング.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59eeb10acc604816",
             "type": "leaf",
             "state": {
@@ -44,15 +32,18 @@
             }
           },
           {
-            "id": "0cecd7b85e7cd2c6",
+            "id": "539ea6fced1b04ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5章ファイルIO：詳細.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c6239a88c05acdb",
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "目次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "目次.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13章 I/Oのバッファリング.md"
+                "file": "目次.md"
               }
             }
           }
@@ -179,13 +173,17 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "4273fe41e89dd43f",
+  "active": "e915c07b7765bae3",
   "lastOpenFiles": [
-    "13章 IOのバッファリング.md",
     "4章ファイル IO：統一されたインタフェース.md",
     "目次.md",
-    "13章 I/Oのバッファリング.md",
+    "27章 プログラムの実行.md",
     "5章ファイルIO：詳細.md",
+    "63章 高度なIOモデル.md",
+    "63章 高度なI/Oモデル.md",
+    "63章 高度なI",
+    "13章 IOのバッファリング.md",
+    "13章 I/Oのバッファリング.md",
     "22章 シグナル：応用.md",
     "24章 プロセス作成.md",
     "4.3 ファイルのオープン：open().md",
