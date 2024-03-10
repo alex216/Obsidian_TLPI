@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0cecd7b85e7cd2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5章ファイルIO：詳細.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4章ファイル IO：統一されたインタフェース.md",
+                "file": "5章ファイルIO：詳細.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4章ファイル IO：統一されたインタフェース.md",
+                "file": "5章ファイルIO：詳細.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4章ファイル IO：統一されたインタフェース.md"
+                "file": "5章ファイルIO：詳細.md"
               }
             }
           }
@@ -162,15 +174,17 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "59eeb10acc604816",
+  "active": "0cecd7b85e7cd2c6",
   "lastOpenFiles": [
     "目次.md",
+    "5章ファイルIO：詳細.md",
+    "22章 シグナル：応用.md",
+    "24章 プロセス作成.md",
     "4章ファイル IO：統一されたインタフェース.md",
     "13章 IOのバッファリング.md",
     "4.3 ファイルのオープン：open().md",
     "4.2 統一されたインタフェース.md",
     "O：統一されたインタフェース.md",
-    "5章ファイルIO：その詳細.md",
     "13章 I/Oのバッファリング.md",
     "13章 I",
     "2章 基礎概念.md",
