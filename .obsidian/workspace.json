@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a79f34f4ab32279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2章 基礎概念.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b3759c1cc1b2e90",
+            "id": "e915c07b7765bae3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59eeb10acc604816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4章ファイル IO：統一されたインタフェース.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2章 基礎概念.md",
+                "file": "4章ファイル IO：統一されたインタフェース.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2章 基礎概念.md",
+                "file": "4章ファイル IO：統一されたインタフェース.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2章 基礎概念.md"
+                "file": "4章ファイル IO：統一されたインタフェース.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,11 +162,21 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "6a79f34f4ab32279",
+  "active": "59eeb10acc604816",
   "lastOpenFiles": [
     "目次.md",
+    "4章ファイル IO：統一されたインタフェース.md",
+    "13章 IOのバッファリング.md",
+    "4.3 ファイルのオープン：open().md",
+    "4.2 統一されたインタフェース.md",
+    "O：統一されたインタフェース.md",
+    "5章ファイルIO：その詳細.md",
+    "13章 I/Oのバッファリング.md",
+    "13章 I",
     "2章 基礎概念.md",
     "2章 基礎概念^8a2e7d.md",
-    "^8a2e7d.md"
+    "^8a2e7d.md",
+    "5章ファイルI",
+    "4章ファイル I"
   ]
 }
