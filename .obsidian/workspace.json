@@ -152,6 +152,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
