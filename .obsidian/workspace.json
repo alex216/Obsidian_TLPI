@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27章 プログラムの実行.md",
+                "file": "目次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27章 プログラムの実行.md",
+                "file": "目次.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "27章 プログラムの実行.md"
+                "file": "目次.md"
               }
             }
           }
@@ -174,10 +173,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "f6f5dbff79671cc6",
+  "active": "e915c07b7765bae3",
   "lastOpenFiles": [
-    "4章ファイル IO：統一されたインタフェース.md",
     "27章 プログラムの実行.md",
+    "4章ファイル IO：統一されたインタフェース.md",
     "目次.md",
     "5章ファイルIO：詳細.md",
     "13章 IOのバッファリング.md",
