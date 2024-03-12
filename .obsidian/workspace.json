@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e915c07b7765bae3",
+            "id": "e2ae5bb4c7df5211",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,18 +32,15 @@
             }
           },
           {
-            "id": "f6f5dbff79671cc6",
+            "id": "d09a8aadd589d063",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "27章 プログラムの実行.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c6239a88c05acdb",
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目次.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "目次.md"
+                "file": "無題のファイル.md"
               }
             }
           }
@@ -173,15 +167,17 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e915c07b7765bae3",
+  "active": "4273fe41e89dd43f",
   "lastOpenFiles": [
-    "27章 プログラムの実行.md",
+    "5章ファイルIO：詳細.md",
     "4章ファイル IO：統一されたインタフェース.md",
     "目次.md",
-    "5章ファイルIO：詳細.md",
     "13章 IOのバッファリング.md",
-    "18章 ディレクトリとリンク.md",
     "63章 高度なIOモデル.md",
+    "無題のファイル.md",
+    "Pasted image 20240311183504.png",
+    "27章 プログラムの実行.md",
+    "18章 ディレクトリとリンク.md",
     "63章 高度なI/Oモデル.md",
     "63章 高度なI",
     "13章 I/Oのバッファリング.md",

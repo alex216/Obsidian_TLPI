@@ -47,7 +47,7 @@
 			- `fcntl()`の`F_GETFD`,`F_SETFD`の代わりになる
 			- 解説
 				- １スレッドが
-					- `open()`->close-on-execフラグセット
+					- `open()`->`close-on-execフラグ`セット
 				- ２番スレッドが
 					-　`fork()`後`exec()`すると、
 				オープン済みfdを意図せず他プログラムへ与えてしまう
