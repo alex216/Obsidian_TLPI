@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c1e4302722624b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5章ファイルIO：詳細.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f84f9f1a8bbcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "44章 パイプとFIFO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4章ファイル IO：統一されたインタフェース.md",
+                "file": "44章 パイプとFIFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4章ファイル IO：統一されたインタフェース.md",
+                "file": "44章 パイプとFIFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4章ファイル IO：統一されたインタフェース.md"
+                "file": "44章 パイプとFIFO.md"
               }
             }
           }
@@ -162,17 +186,18 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "c2389bcfa28cf075",
+  "active": "a0f84f9f1a8bbcdb",
   "lastOpenFiles": [
-    "目次.md",
-    "44章 パイプとFIFO.md",
-    "4章ファイル IO：統一されたインタフェース.md",
+    "Pasted image 20240313182308.png",
     "5章ファイルIO：詳細.md",
+    "4章ファイル IO：統一されたインタフェース.md",
+    "目次.md",
+    "27章 プログラムの実行.md",
+    "44章 パイプとFIFO.md",
+    "63章 高度なIOモデル.md",
     "13章 IOのバッファリング.md",
     "無題のファイル.md",
-    "63章 高度なIOモデル.md",
     "Pasted image 20240311183504.png",
-    "27章 プログラムの実行.md",
     "18章 ディレクトリとリンク.md",
     "63章 高度なI/Oモデル.md",
     "63章 高度なI",
