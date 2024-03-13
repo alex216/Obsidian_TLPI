@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目次.md",
+                "file": "4章ファイル IO：統一されたインタフェース.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目次.md",
+                "file": "4章ファイル IO：統一されたインタフェース.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "目次.md"
+                "file": "4章ファイル IO：統一されたインタフェース.md"
               }
             }
           }
@@ -161,13 +162,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e2ae5bb4c7df5211",
+  "active": "c2389bcfa28cf075",
   "lastOpenFiles": [
+    "目次.md",
     "44章 パイプとFIFO.md",
     "4章ファイル IO：統一されたインタフェース.md",
     "5章ファイルIO：詳細.md",
     "13章 IOのバッファリング.md",
-    "目次.md",
     "無題のファイル.md",
     "63章 高度なIOモデル.md",
     "Pasted image 20240311183504.png",
