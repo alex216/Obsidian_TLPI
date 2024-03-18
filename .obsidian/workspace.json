@@ -20,15 +20,7 @@
             }
           },
           {
-            "id": "fdefd3e51d3dfae7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c69d61aa1d3373c1",
+            "id": "97b3bb10a1e85931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a4daddb53d13444d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "34章 プロセスグループ、セッション、ジョブコントロール.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c6239a88c05acdb",
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "34章 プロセスグループ、セッション、ジョブコントロール.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "34章 プロセスグループ、セッション、ジョブコントロール.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "34章 プロセスグループ、セッション、ジョブコントロール.md"
+              }
             }
           }
         ],
@@ -165,13 +174,18 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "fdefd3e51d3dfae7",
+  "active": "a4daddb53d13444d",
   "lastOpenFiles": [
-    "34章 プロセスグループ、セッション、ジョブコントロール.md",
-    "Pasted image 20240318145203.png",
     "目次.md",
-    "20章 シグナル：基礎.md",
     "26章 子プロセスの監視.md",
+    "34章 プロセスグループ、セッション、ジョブコントロール.md",
+    "画像ディレクトリ/Pasted image 20240318145203.png",
+    "画像ディレクトリ",
+    "画像ディレクトリ/Pasted image 20240311183504.png",
+    "27章 プログラムの実行.md",
+    "4章ファイル IO：統一されたインタフェース.md",
+    "2章 基礎概念.md",
+    "20章 シグナル：基礎.md",
     "44章 パイプとFIFO.md",
     "25章 プロセスの終了.md",
     "13章 IOのバッファリング.md",
@@ -180,13 +194,10 @@
     "25.1 ",
     "5章ファイルIO：詳細.md",
     "61章 ソケット：応用.md",
-    "Pasted image 20240314112228.png",
-    "27章 プログラムの実行.md",
-    "4章ファイル IO：統一されたインタフェース.md",
-    "Pasted image 20240313182308.png",
+    "画像ディレクトリ/Pasted image 20240314112228.png",
+    "画像ディレクトリ/Pasted image 20240313182308.png",
     "63章 高度なIOモデル.md",
     "無題のファイル.md",
-    "Pasted image 20240311183504.png",
     "18章 ディレクトリとリンク.md",
     "63章 高度なI/Oモデル.md",
     "63章 高度なI",
@@ -196,7 +207,6 @@
     "4.2 統一されたインタフェース.md",
     "O：統一されたインタフェース.md",
     "13章 I",
-    "2章 基礎概念.md",
     "2章 基礎概念^8a2e7d.md",
     "^8a2e7d.md",
     "5章ファイルI",
