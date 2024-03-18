@@ -20,6 +20,14 @@
             }
           },
           {
+            "id": "fdefd3e51d3dfae7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "c69d61aa1d3373c1",
             "type": "leaf",
             "state": {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c6239a88c05acdb",
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "目次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "目次.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "目次.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,10 +165,14 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e2ae5bb4c7df5211",
+  "active": "fdefd3e51d3dfae7",
   "lastOpenFiles": [
-    "26章 子プロセスの監視.md",
+    "34章 プロセスグループ、セッション、ジョブコントロール.md",
+    "Pasted image 20240318145203.png",
     "目次.md",
+    "20章 シグナル：基礎.md",
+    "26章 子プロセスの監視.md",
+    "44章 パイプとFIFO.md",
     "25章 プロセスの終了.md",
     "13章 IOのバッファリング.md",
     "24章 プロセス作成.md",
@@ -175,7 +183,6 @@
     "Pasted image 20240314112228.png",
     "27章 プログラムの実行.md",
     "4章ファイル IO：統一されたインタフェース.md",
-    "44章 パイプとFIFO.md",
     "Pasted image 20240313182308.png",
     "63章 高度なIOモデル.md",
     "無題のファイル.md",
