@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c84630ad72632a0c",
+        "id": "6474b60d2ae52543",
         "type": "tabs",
         "children": [
           {
-            "id": "e2ae5bb4c7df5211",
+            "id": "4b8c947393055103",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b6efa3ee73482ddf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "44章 パイプとFIFO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 238.5
   },
   "right": {
     "id": "8c6239a88c05acdb",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "44章 パイプとFIFO.md",
+                "file": "目次.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "44章 パイプとFIFO.md",
+                "file": "目次.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "44章 パイプとFIFO.md"
+                "file": "目次.md"
               }
             }
           }
@@ -162,43 +148,44 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "b6efa3ee73482ddf",
+  "active": "4b8c947393055103",
   "lastOpenFiles": [
+    "29章 スレッド：基礎.md",
     "目次.md",
+    "31章 スレッド：スレッドセーフと専用メモリ.md",
+    "33章 スレッド：さらなる詳細.md",
+    "20章 シグナル：基礎.md",
+    "22章 シグナル：応用.md",
+    "5章ファイルIO：詳細.md",
+    "画像ディレクトリ/Pasted image 20240603104637.png",
+    "画像ディレクトリ/Pasted image 20240311183504.png",
+    "画像ディレクトリ/Pasted image 20240313182308.png",
+    "画像ディレクトリ/Pasted image 20240314112228.png",
+    "34章 プロセスグループ、セッション、ジョブコントロール.md",
     "44章 パイプとFIFO.md",
-    "26章 子プロセスの監視.md",
     "24章 プロセス作成.md",
+    "4章ファイル IO：統一されたインタフェース.md",
+    "25章 プロセスの終了.md",
+    "26章 子プロセスの監視.md",
+    "27章 プログラムの実行.md",
+    "2章 基礎概念.md",
     "63章 高度なIOモデル.md",
     "13章 IOのバッファリング.md",
     "13章 IOのバッファリング^13.md",
-    "2章 基礎概念.md",
     "画像ディレクトリ/Pasted image 20240320215428.png",
-    "34章 プロセスグループ、セッション、ジョブコントロール.md",
     "画像ディレクトリ/Pasted image 20240318145203.png",
     "画像ディレクトリ",
-    "画像ディレクトリ/Pasted image 20240311183504.png",
-    "27章 プログラムの実行.md",
-    "4章ファイル IO：統一されたインタフェース.md",
-    "20章 シグナル：基礎.md",
-    "25章 プロセスの終了.md",
     "25.1 /_exit()とexit().md",
     "25.1 ",
-    "5章ファイルIO：詳細.md",
     "61章 ソケット：応用.md",
-    "画像ディレクトリ/Pasted image 20240314112228.png",
-    "画像ディレクトリ/Pasted image 20240313182308.png",
-    "無題のファイル.md",
     "18章 ディレクトリとリンク.md",
     "63章 高度なI/Oモデル.md",
     "63章 高度なI",
     "13章 I/Oのバッファリング.md",
-    "22章 シグナル：応用.md",
     "4.3 ファイルのオープン：open().md",
     "4.2 統一されたインタフェース.md",
     "O：統一されたインタフェース.md",
     "13章 I",
-    "2章 基礎概念^8a2e7d.md",
-    "^8a2e7d.md",
     "5章ファイルI",
     "4章ファイル I"
   ]
